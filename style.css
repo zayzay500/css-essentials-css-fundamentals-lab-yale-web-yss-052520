@@ -37,7 +37,7 @@ p #featured-property {
 #details {
   display: block;
   position: fixed;
-  
+  bottom: 0;
 }
 
 div #details {
